@@ -1,4 +1,4 @@
-#SW_expert 알고리즘 테스트
+# SW_expert 알고리즘 테스트
 
 - https://swexpertacademy.com/main/code/problem/problemList.do
 - 위 사이트에서 각 문제번호를 검색하여 문제를 확인할 수 있음.
